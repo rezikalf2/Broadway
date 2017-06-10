@@ -1,8 +1,15 @@
 body{
-  color: white;
+  color: black;
   text-align: center;
   font-family:  Helvetica; sans-serif;
+  background-image: url("./resources/image//the-flatiron-building.png");
 }
 .header {
-  background-image: url("resources/images/the-flatiron-building.png");
+  background-image: url("./resources/image//the-flatiron-building.png");
+}
+#title{
+  font-size: 70px;
+}
+#link{
+  font-size: 18px;
 }

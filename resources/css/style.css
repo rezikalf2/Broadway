@@ -9,7 +9,7 @@ body{
 #title{
   font-size: 70px;
 }
-#link{
+.links{
   font-size: 18px;
 }
 #process{
@@ -24,4 +24,9 @@ body{
 }
 #location{
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+.footer{
+  font-size: 11px;
+  text-align: left;
+  background-color: dimgray;
 }
